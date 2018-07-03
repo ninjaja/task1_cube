@@ -1,0 +1,62 @@
+2018-06-04T21:48:17,239 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T21:55:20,659 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:01:24,379 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:02:25,064 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:08:17,894 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:09:20,733 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:09:43,664 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:11:28,832 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:12:36,343 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:13:40,298 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:17:03,799 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:17:35,287 [WARN ] (null:-1) - Validation: no correct data found
+2018-06-04T22:18:24,742 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:27:46,186 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:27:56,826 [WARN ] (null:-1) - Validation: no correct data found
+2018-06-04T22:28:35,329 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:32:38,184 [WARN ] (CubeValidator.java:34) - Validation: no correct data found
+2018-06-04T22:36:20,290 [WARN ] (CubeValidator.java:35) - Validation: no correct data found
+2018-06-05T22:40:46,694 [WARN ] (CubeValidator.java:29) - Validation: no correct data found
+2018-06-05T22:41:27,374 [WARN ] (CubeValidator.java:29) - Validation: no correct data found
+2018-06-08T23:23:57,474 [WARN ] (CubeValidator.java:29) - Validation: no correct data found
+2018:06-09 13:49:51 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 5lines have been read.
+2018:06-09 13:51:21 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 5lines have been read.
+2018:06-09 13:51:21 [main] INFO  com.matrizaev.shape.validator.CubeInputDataValidator - Validation: string2.1 6.7 -4.6 -6.7is incorrect
+2018:06-10 18:53:54 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: reading cube data from filepath: ./inputFiles/input.txt
+2018:06-10 18:53:54 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 5 lines have been read.
+2018:06-10 18:53:54 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 5 lines have been read.
+2018:06-10 19:06:48 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: reading cube data from custom filepath: ./inputFiles/input.txt
+2018:06-10 19:06:48 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 5 lines have been read.
+2018:06-10 19:06:48 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: reading cube data from default filepath: ./inputFiles/input.txt
+2018:06-10 19:06:48 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 5 lines have been read.
+2018:06-10 19:10:52 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: reading cube data from default filepath: ./inputFiles/input.txt
+2018:06-10 19:10:52 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 5 lines have been read.
+2018:06-10 19:10:52 [main] INFO  com.matrizaev.shape.validator.CubeInputDataValidator - Validation: string [2.1 6.7 -4.6 -6.7] is incorrect
+2018:06-10 19:23:10 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: reading cube data from default filepath: ./inputFiles/input.txt
+2018:06-10 19:23:10 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 5 lines have been read.
+2018:06-10 19:23:10 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: reading cube data from custom filepath: ./inputFiles/empty.txt
+2018:06-10 19:23:10 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 0 lines have been read.
+2018:06-10 19:23:10 [main] INFO  com.matrizaev.shape.validator.CubeInputDataValidator - Validation: string [2.1 6.7 -4.6 -6.7] is incorrect
+2018:06-10 19:23:10 [main] WARN  com.matrizaev.shape.validator.CubeInputDataValidator - Validation: no correct data found
+2018:06-10 19:23:49 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: reading cube data from default filepath: ./inputFiles/input.txt
+2018:06-10 19:23:49 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 5 lines have been read.
+2018:06-10 19:23:49 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: reading cube data from custom filepath: ./inputFiles/empty.txt
+2018:06-10 19:23:49 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 0 lines have been read.
+2018:06-10 19:23:49 [main] INFO  com.matrizaev.shape.validator.CubeInputDataValidator - Validation: string [2.1 6.7 -4.6 -6.7] is incorrect
+2018:06-10 19:23:49 [main] INFO  com.matrizaev.shape.validator.CubeInputDataValidator - Validation: string [2.1 6.7 -4.6 -6.7] is incorrect
+2018:06-10 19:24:23 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: reading cube data from default filepath: ./inputFiles/input.txt
+2018:06-10 19:24:23 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 5 lines have been read.
+2018:06-10 19:24:23 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: reading cube data from custom filepath: ./inputFiles/empty.txt
+2018:06-10 19:24:23 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 0 lines have been read.
+2018:06-10 19:24:23 [main] INFO  com.matrizaev.shape.validator.CubeInputDataValidator - Validation: string [2.1 6.7 -4.6 -6.7] is incorrect
+2018:06-10 19:24:23 [main] WARN  com.matrizaev.shape.validator.CubeInputDataValidator - Validation: no correct data found
+2018:06-18 20:21:23 [main] INFO  com.matrizaev.shape.action.CubeAction - Proportion by crossing with XY-plane is: 3.0
+2018:06-18 20:21:23 [main] INFO  com.matrizaev.shape.action.CubeAction - The cube has no crossings with XZ-plane
+2018:06-18 20:21:23 [main] INFO  com.matrizaev.shape.action.CubeAction - Proportion by crossing with XZ-plane is: 0.0
+2018:06-18 20:21:23 [main] INFO  com.matrizaev.shape.action.CubeAction - Proportion by crossing with YZ-plane is: 3.0
+2018:06-18 20:21:23 [main] INFO  com.matrizaev.shape.action.CubeAction - The cube is tangent to plane(s): XY XZ YZ 
+2018:06-18 20:21:23 [main] INFO  com.matrizaev.shape.action.CubeAction - The cube is tangent to plane(s): to none of the planes
+2018:06-18 20:21:23 [main] INFO  com.matrizaev.shape.action.CubeAction - The cube is tangent to plane(s): XZ 
+2018:06-18 21:09:54 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: reading cube data from default filepath: ./inputFiles/input.txt
+2018:06-18 21:09:54 [main] INFO  com.matrizaev.shape.reader.CubeReader - CubeReader: 5 lines have been read.
+2018:06-18 21:09:54 [main] INFO  com.matrizaev.shape.validator.CubeInputDataValidator - Validation: string [2.1 6.7 -4.6 -6.7] is incorrect
